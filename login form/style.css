@@ -1,0 +1,40 @@
+
+.Rajistration-form{
+    
+    padding-left: 40px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div p{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.login-form{
+    padding-left: 40px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    height: 40px;
+    line-height: 40px;
+    background-color: rgb(146, 146, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+li{
+    float: left;
+    border-right:  10px solid rgb(105, 102, 102);
+}
+a{
+    display: block;
+    padding:0 30px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(199, 199, 199);
+}
